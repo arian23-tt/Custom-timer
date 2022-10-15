@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+$num:10px;
+$num: 20px 1default;
+div{
+    width: $num;
+    height: $num;
+    background-color: #000;
+
+}
